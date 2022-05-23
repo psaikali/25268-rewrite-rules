@@ -1,4 +1,5 @@
-# Project Title
+# How to use WordPress Rewrite Rules
+## Create a custom route to display a Dashboard page
 
 This repository is a basic WordPress plugin created to illustrate a blog post about Rewrite Rules in WordPress.
 
